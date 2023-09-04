@@ -17,3 +17,6 @@
 - `phone_new.csv` — информация об услугах телефонии.
 
 Информация о договорах актуальна на 1 февраля 2020.
+
+### Навыки и инструменты
+`EDA`, `Pandas`, `NumPy`, `Sklearn`, `LogisticRegression`, `RandomForestRegressor`, `CatBoost`, `StatsModels`, `Matplotlib`, `Seaborn`, `KMeans`
