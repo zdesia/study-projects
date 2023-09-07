@@ -18,4 +18,5 @@
   
 
 ### Навыки и инструменты
-`EDA`, `Pandas`, `NumPy`, `Sklearn`, `LogisticRegression`, `RandomForestRegressor`, `CatBoost`, `StatsModels`, `Matplotlib`, `Seaborn`, `KMeans`
+EDA  ·  Statistical Analysis ·  SciPy  ·  Pandas ·  NumPy  ·  Seaborn  ·  Scikit-learn ·  LogisticRegression  ·  RandomForest  ·  CatBoost  Clustering ·  KMeans  ·  Shap
+
