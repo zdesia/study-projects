@@ -9,4 +9,4 @@
 Набор данных с разметкой о токсичности правок. Столбец `text` в нём содержит текст комментария, а `toxic` — целевой признак.
 
 ### Навыки и инструменты
-`EDA`, `Pandas`, `NumPy`, `Sklearn`, `LogisticRegression`, `RandomForestRegressor`, `CatBoost`, `NLP`, `TF-IDF`, `CountVectorizer`, `Matplotlib`, `Seaborn`
+NLP ·   Pandas ·  NumPy  ·  TF-IDF  ·  CountVectorizer  ·  Lemmatization  ·  Scikit-learn ·  LogisticRegression  ·  RandomForest  ·  CatBoost  
